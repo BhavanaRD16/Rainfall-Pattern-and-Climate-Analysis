@@ -1,4 +1,5 @@
 🌧️Rainfall-Pattern-and-Climate-Analysis
+
 📌 Project Overview
 
 Rainfall plays a crucial role in agriculture, water resource management, and disaster preparedness. This project analyzes long-term rainfall data across Indian regions to identify seasonal patterns, variability, and trends. The goal is to derive actionable insights that support better agricultural planning and decision-making.
