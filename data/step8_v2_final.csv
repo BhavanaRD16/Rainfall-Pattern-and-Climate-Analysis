@@ -1,0 +1,37 @@
+STATE,MEAN_RAINFALL,CV,RISK_LEVEL,SUITABLE_CROPS,CROP_COUNT
+ARUNACHAL PRADESH,3438.47,30.85,Moderate Risk,"Millets, Pulses",2
+COASTAL KARNATAKA,3405.92,14.13,Low Risk,"Millets, Pulses",2
+KONKAN & GOA,2977.68,16.29,Low Risk,"Millets, Pulses",2
+ANDAMAN & NICOBAR ISLANDS,2930.04,13.77,Low Risk,"Millets, Pulses",2
+KERALA,2925.5,14.43,Low Risk,"Millets, Pulses",2
+SUB HIMALAYAN WEST BENGAL & SIKKIM,2752.2,12.28,Low Risk,"Millets, Pulses",2
+ASSAM & MEGHALAYA,2580.7,12.02,Low Risk,Tea,1
+NAGA MANI MIZO TRIPURA,2433.64,17.74,Low Risk,"Sugarcane, Tea, Jute",3
+LAKSHADWEEP,1599.84,16.58,Low Risk,"Rice, Sugarcane",2
+GANGETIC WEST BENGAL,1490.49,15.4,Low Risk,"Rice, Tea, Jute",3
+UTTARAKHAND,1465.69,18.01,Low Risk,"Rice, Tea",2
+ORISSA,1458.17,12.83,Low Risk,"Rice, Jute",2
+CHHATTISGARH,1371.73,15.36,Low Risk,Rice,1
+JHARKHAND,1309.3,15.14,Low Risk,Rice,1
+HIMACHAL PRADESH,1260.34,19.62,Low Risk,"Rice, Tea",2
+EAST MADHYA PRADESH,1205.0,18.22,Low Risk,Rice,1
+BIHAR,1197.64,16.25,Low Risk,Rice,1
+JAMMU & KASHMIR,1138.1,20.6,Moderate Risk,Rice,1
+VIDARBHA,1095.46,18.58,Low Risk,"Rice, Cotton",2
+COASTAL ANDHRA PRADESH,1052.9,18.08,Low Risk,"Rice, Cotton",2
+SOUTH INTERIOR KARNATAKA,1040.38,14.49,Low Risk,"Rice, Cotton",2
+EAST UTTAR PRADESH,979.21,20.8,Moderate Risk,"Rice, Sunflower, Cotton",3
+TELANGANA,953.37,21.6,Moderate Risk,"Rice, Sunflower, Cotton",3
+TAMIL NADU,943.73,17.59,Low Risk,"Rice, Sunflower, Cotton",3
+WEST MADHYA PRADESH,941.52,19.63,Low Risk,"Rice, Sunflower, Cotton",3
+GUJARAT REGION,918.2,30.32,Moderate Risk,"Rice, Sunflower, Cotton",3
+MADHYA MAHARASHTRA,880.22,18.07,Low Risk,"Sunflower, Cotton",2
+WEST UTTAR PRADESH,827.11,22.93,Moderate Risk,"Sunflower, Cotton",2
+MARATHWADA,790.68,23.93,Moderate Risk,"Maize, Soybean, Sunflower, Cotton",4
+RAYALSEEMA,766.21,19.64,Low Risk,"Maize, Soybean, Sunflower, Cotton",4
+NORTH INTERIOR KARNATAKA,717.79,18.67,Low Risk,"Maize, Soybean, Sunflower, Cotton",4
+EAST RAJASTHAN,655.21,25.4,Moderate Risk,"Maize, Groundnut, Soybean, Sunflower",4
+PUNJAB,593.54,27.52,Moderate Risk,"Wheat, Maize, Sorghum, Groundnut, Tomato",5
+HARYANA DELHI & CHANDIGARH,530.49,26.8,Moderate Risk,"Wheat, Maize, Sorghum, Groundnut, Onion, Tomato",6
+SAURASHTRA & KUTCH,495.14,40.78,High Risk,"Sorghum, Pearl Millet",2
+WEST RAJASTHAN,292.66,37.19,Moderate Risk,Millets,1

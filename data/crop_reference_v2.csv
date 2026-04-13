@@ -1,0 +1,17 @@
+CROP,MIN_MM,MAX_MM,DROUGHT_RESISTANT,CROP_CATEGORY,FAO_PAPER,FAO_TABLE,NOTES
+Rice,900,1600,False,Cereal,FAO Paper 24 (Doorenbos & Pruitt 1977) + FAO Paper 56 (Allen et al. 1998),Paper 24 Table 2 / Paper 56 Ch.6 Table 11,"Max raised 1200→1600mm to include major Indian rice states like Orissa (1458mm), Chhattisgarh (1371mm), Jharkhand (1309mm) which are established rice bowls. FAO global range is 450-700mm ETc; field requirement in India can reach 1600mm in high-rainfall rainfed zones."
+Wheat,450,650,False,Cereal,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Approximate Values of Seasonal Crop Water Needs,450-650mm seasonal; Rabi crop; growing period 120-150 days per Paper 24 Table 6
+Maize,500,800,False,Cereal,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Approximate Values of Seasonal Crop Water Needs,500-800mm seasonal; Kharif crop; growing period 80-180 days
+Sorghum,450,650,True,Cereal,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Sorghum/Millet: 450-650mm,450-650mm seasonal; drought tolerant; Kharif crop
+Barley,450,650,False,Cereal,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 / Paper 24 Table 6 (120-150 days),450-650mm; Rabi crop; similar water needs to wheat
+Sugarcane,1500,2500,False,Cash Crop,FAO Paper 24 (Doorenbos & Pruitt 1977) + FAO Paper 56 (Allen et al. 1998),Paper 56 Ch.6 Tables 12a & 12b,1500-2500mm; 12-18 month crop; high water demand
+Cotton,700,1100,False,Cash Crop,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Approximate Values of Seasonal Crop Water Needs,700-1100mm for rainfed Indian conditions. FAO gives 700-1300mm globally; upper bound reduced to 1100mm as excess moisture causes boll rot.
+Groundnut,500,700,True,Oilseed,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Approximate Values of Seasonal Crop Water Needs,500-700mm seasonal; low drought sensitivity per FAO Paper 33
+Soybean,600,800,False,Oilseed,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Approximate Values of Seasonal Crop Water Needs,"600-800mm for Indian rainfed conditions; MP, Maharashtra and Karnataka primary states"
+Sunflower,600,1000,False,Oilseed,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Approximate Values of Seasonal Crop Water Needs,600-1000mm seasonal; grown both Kharif and Rabi
+Pulses,300,500,True,Pulse,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Beans: 300-500mm,Covers all pulses; low water need; drought tolerant; growing period 65-110 days
+Millets,450,650,True,Cereal,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 2 - Sorghum/Millet: 450-650mm,Pearl millet/finger millet; drought tolerant; Kharif; growing period 105-140 days
+Tea,1200,2600,False,Plantation,FAO Paper 56 (Allen et al. 1998),Paper 56 Ch.3 Table 8 - special crop Kc group (cacao/coffee/tea),Max raised to 2600mm to include Assam (2580mm) and Sub-Himalayan WB (2752mm capped by whitelist). Geographic whitelist applied.
+Coffee,1200,1800,False,Plantation,FAO Paper 56 (Allen et al. 1998),Paper 56 Ch.3 Table 8 - special crop Kc group (cacao/coffee/tea),"1200-1800mm; Indian coffee states only (Karnataka, Kerala, Tamil Nadu). Geographic whitelist applied."
+Rubber,2000,3500,False,Plantation,FAO Paper 56 (Allen et al. 1998),Paper 56 Ch.3 - perennial tree crop section,"Minimum 2000mm well-distributed; traditional states: Kerala, Karnataka, NE India"
+Jute,1200,1500,False,Fibre Crop,FAO Paper 24 (Doorenbos & Pruitt 1977),Paper 24 Table 6 - growing period 100-120 days,"Grown in WB, Bihar, Assam, Orissa. Geographic whitelist applied."
